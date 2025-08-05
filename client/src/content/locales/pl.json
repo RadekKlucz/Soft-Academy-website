@@ -1,0 +1,763 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "aboutAnalysis": "O analizie",
+    "aboutMe": "O mnie",
+    "portfolio": "Portfolio",
+    "services": "Usługi",
+    "testimonials": "Opinie",
+    "faq": "FAQ",
+    "contact": "Kontakt"
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "subtitle": "Odpowiedzi na najczęściej zadawane pytania dotyczące analizy kolorystycznej",
+    "questions": {
+      "q1": "Czym jest analiza kolorystyczna?",
+      "q2": "Jak przygotować się do analizy kolorystycznej?",
+      "q3": "Kiedy otrzymam wyniki?",
+      "q4": "Analiza stacjonarna lub online - którą wybrać?",
+      "q5": "Ile czasu poświęcę na przygotowanie się do analizy?",
+      "q6": "Czy analiza kolorystyczna jest przydatna dla mężczyzn?",
+      "q7": "Co otrzymam po analizie kolorystycznej?",
+      "q8": "Na jak długo zostają ze mną wyniki analizy kolorystycznej?",
+      "q9": "Co jeśli nie zgadzam się z wynikami analizy?",
+      "q10": "Czy mogę zapisać się razem z koleżanką / kolegą na analizę?",
+      "q11": "Czy można określić swój typ urody szukając podobieństw w urodzie innych osób?",
+      "q12": "Wypełnię formularz i co dalej?"
+    },
+    "answers": {
+      "a1": "Analiza kolorystyczna to nie tylko określenie pory roku i jej podtypu, ale cały proces układania indywidualnej palety kolorów, które najlepiej współgrają z naturalnym kolorytem Twojej skóry, włosów i oczu. Dzięki analizie dowiesz się, która paleta barw podkreśla Twoją naturalną urodę, a która może sprawiać, że wyglądasz na zmęczoną lub starszą.",
+      "a2": "Do analizy kolorystycznej należy wysłać kilka zdjęć; koniecznie w świetle dziennym, na białym tle, bez makijażu, biżuterii, okularów. Jeśli farbujesz włosy poczekaj aż będzie widać odrost. Do twarzy przykładasz próbki różnych kolorów- mogą to być Twoje ubrania, ręczniki, pościel, ubrania członków rodziny; ważne aby pokazać się w całej gamie kolorów podstawowych.",
+      "a3": "Na wyniki czekasz do 10 dni roboczych. Jeśli skorzystasz z oferty kompleksowej analizy kolorystycznej będzie możliwość omówienia swoich wyników podczas 30 minutowej konsultacji.",
+      "a4": "Obie mają swoje zalety jednakże bezapelacyjnie analiza online wygrywa oszczędnością czasu. Nie musisz brać dnia wolnego i jechać kilka godzin, aby dowiedzieć się które kolory są dla Ciebie idealne. Do analizy potrzebuję tylko kilku Twoich zdjęć  i jestem w stanie tak samo prezyzyjnie określić Twoją paletę kolorystyczną. Co więcej; warunki atmosferyczne, pora dnia i roku - te czynniki mogą wpłynąć na wyniki analizy - podczas analizy online precyzja jest zdecydowanie większa.",
+      "a5": "Niewiele. Do wypełnienia dostaniesz krótki formularz gdzie odpowiesz na pytania o cechy Twojej urody, a także o kolory które lubisz i te które omijasz szerokim łukiem. Do tego kilka zdjęć Twojej twarzy w różnych próbkach kolorystycznych i na tym kończy się Twoja rola.",
+      "a6": "Zdecydowanie tak! Analiza kolorystyczna jest równie przydatna dla mężczyzn co dla kobiet. Z tą różnicą, że palety kolorystyczne Panów są bardziej stonowane. Analiza kolorystyczna pomaga dobrać odpowiednie kolory garniturów, koszul, swetrów i innych elementów garderoby, co przekłada się na profesjonalny i atrakcyjny wygląd.",
+      "a7": "W zależności od pakietu, który wybierzesz możesz otrzymać dodatkową szansę na doprecyzowanie wyników w postaci konsultacji czy indywidualny breloczek, który odczaruje złe wybory zakupowe. Każdy z pakietów zawiera indywidualny raport z Twoją paletą oraz wskazówki dotyczące stylizacji, makijażu i dodatków.",
+      "a8": "Analizę kolorystyczną wykonuje się raz na całe życie, dlatego warto w nią zainwestować, aby móc cieszyć się przez lata udanymi zakupami, stylizacjami, koloryzacją włosów. Typ urody nie zmienia się  z wiekiem. Wizerunek może tracić na intensywności wraz z siwiejącymi włosami, natomiast nigdy nie staniesz się swoim typem opozycyjnym.",
+      "a9": "Może się zdarzyć, że Twój ulubiony kolor okaże się być w palecie typu opozycyjnego, a więc takim którego powinnaś unikać. Rozumiem co to znaczy, bo miałam identyczną sytuację z błękitem. Natomiast pamiętaj, że moja analiza to dla Ciebie po prostu raport ze wskazówkami w czym <strong>obiektywnie</strong> wyglądasz najlepiej. Nie musisz rezygnować ze swoich ukochanych kolorów, ani zmuszać się do noszenia tych rekomendowanych, ale nielubianych.",
+      "a10": "Oczywiście! Przyprowadzając drugą osobę otrzymujecie 10% zniżki na analizę.",
+      "a11": "Absolutnie nie. Analiza kolorystyczna czy określenie typu urody to nie postawienie pytanie „do kogo jestem podobna/y?” tylko „jakie kolory do mnie pasują?”. Szereg czynników decyduje o typie urody; dwie niemal identyczne osoby mogą mieć inne wyniki analizy, bo różnią się atrybutami lub podtonem niewidocznym na pierwszy rzut oka.",
+      "a12": "Przy wysyłaniu formularza wybierasz preferowaną formę kontaktu. Gdy dotrze do mnie mail z Twoją wiadomością skontaktuję się z Tobą poprzez wybrane źródło. Wówczas otrzymasz ode mnie formularz z pytaniami o Twoją urodę oraz instrukcję jak zrobić zdjęcia."
+    },
+    "cta": "Masz dodatkowe pytania?",
+    "ctaButton": "Skontaktuj się ze mną",
+    "playSlideshow": "Uruchom pokaz slajdów",
+    "pauseSlideshow": "Zatrzymaj pokaz slajdów",
+    "largeCtaText": "Odkryj swoje naturalne piękno i zamów swoją konsultację już dziś!"
+  },
+  "hero": {
+    "title": {
+      "start": "Odkryj swoje",
+      "highlight": "naturalne piękno",
+      "end": "poprzez Akademię Soft"
+    },
+    "description": "Profesjonalna analiza kolorystyczna online, która pomoże Ci odnaleźć kolory idealnie dopasowane do Twojej urody, stylu życia i osobowości — bez wychodzenia z domu.",
+    "cta": {
+      "primary": "Zarezerwuj wizytę",
+      "secondary": "Dowiedz się więcej"
+    },
+    "imageAlt": "Kobieta podczas analizy kolorystycznej"
+  },
+  "aboutAnalysis": {
+    "title": "Co to jest analiza kolorystyczna?",
+    "subtitle": "Odkryj, jak profesjonalna analiza kolorów może podkreślić Twoją naturalną urodę i pomóc Ci tworzyć harmonijne stylizacje.",
+    "features": {
+      "discovery": {
+        "title": "Odkrywanie naturalnej urody",
+        "description": "Analiza kolorystyczna to metoda, która pozwala zidentyfikować, jakie kolory najlepiej współgrają z Twoją naturalną urodą - odcieniem skóry, kolorem oczu i włosów."
+      },
+      "palette": {
+        "title": "Indywidualna paleta kolorów",
+        "description": "W wyniku analizy otrzymasz spersonalizowaną paletę kolorów, które najlepiej podkreślą Twoją urodę, sprawią, że będziesz wyglądać młodziej i promienniej."
+      },
+      "choices": {
+        "title": "Świadome wybory modowe",
+        "description": "Znając swoją paletę kolorów, będziesz podejmować bardziej świadome decyzje zakupowe, tworzyć spójną garderobę i oszczędzać czas oraz pieniądze."
+      }
+    },
+    "cta": "Zobacz dostępne usługi"
+  },
+  "aboutMe": {
+    "title": "O mnie",
+    "paragraph1": "Nazywam się Joanna Kluczewska – a moim kluczem do szczęścia są kolory. Towarzyszą mi każdego dnia: w ubiorze, grafice, wnętrzach... ale to właśnie kolor w modzie stał się moją zawodową pasją. Moją misją jest pomaganie kobietom odkrywać ich naturalne piękno poprzez świadome dobieranie barw.",
+    "paragraph2": "Fascynacja kolorami zaczęła się już w dzieciństwie – kiedy z ciekawością obserwowałam, jak różnorodne potrafią być typy urody. Skąd u jednej osoby chłodna, lodowa elegancja, a u innej ciepły, śródziemnomorski blask? Z czasem to dziecięce pytanie przerodziło się w pasję, a pasja – w zawód.",
+    "paragraph3": "Jestem certyfikowaną kolorystką, ale równie ważna jak wiedza techniczna jest dla mnie subtelność i delikatność. Nie tylko dobieram palety kolorów zgodne z typem urody, ale zachęcam do eksperymentowania z jasnymi odcieniami i do tego, by kolor czarny nosić rzadziej niż zawsze.",
+    "paragraph4": "Jeśli chcesz zrozumieć, jakie barwy najlepiej podkreślają Twoją urodę, a także zyskać narzędzie, które zmienia sposób kupowania ubrań – serdecznie zapraszam do Akademii SOFT.",
+    "paragraph5": "Tu zaczyna się Twoja kolorystyczna metamorfoza.",
+    "imageAlt": "Profesjonalna kolorystka"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Odkryj transformacje, które mogą nastąpić dzięki profesjonalnej analizie kolorystycznej. Poniżej znajdują się przykłady moich realizacji.",
+    "filters": {
+      "all": "Wszystkie",
+      "spring": "Wiosna",
+      "summer": "Lato",
+      "autumn": "Jesień",
+      "winter": "Zima"
+    },
+    "types": {
+      "spring": "wiosna",
+      "summer": "lato",
+      "autumn": "jesień",
+      "winter": "zima"
+    },
+    "noItems": "Brak elementów w tej kategorii",
+    "beforeAfter": "Przed / Po",
+    "before": "Przed",
+    "after": "Po",
+    "colorType": "Typ kolorystyczny",
+    "clothingBefore": "Ubiór przed",
+    "clothingAfter": "Ubiór po",
+    "details": "Szczegóły transformacji",
+    "viewDetails": "Zobacz szczegóły"
+  },
+  "services": {
+    "title": "Usługi i cennik",
+    "subtitle": "Wybierz usługę dopasowaną do Twoich potrzeb i rozpocznij swoją przygodę z odkrywaniem idealnych kolorów.",
+    "popular": "Najpopularniejsza",
+    "bookNow": "Zarezerwuj wizytę",
+    "crocus": {
+      "title": "Podstawowa analiza kolorystyczna - KROKUS",
+      "description": "Analiza kolorystyczna, dzięki której poznasz swój typ urody i kolory, które dodają Ci blasku i pewności siebie.",
+      "price": "250 PLN",
+      "features": {
+        "colorType": "Określenie typu kolorystycznego",
+        "palette": "Personalizowana paleta kolorów",
+        "recommendations": "Rekomendacje dotyczące kolorów ubrań i makijażu"
+      }
+    },
+    "lily": {
+      "title": "Kompleksowa analiza kolorystyczna - LILIA",
+      "description": "Analiza kolorystyczna poszerzona o konsultację wyników podczas spotkania online oraz dedykowany wzornik dopasowany do Twojego typu urody.",
+      "price": "350 PLN",
+      "features": {
+        "basic": "Wszystko z podstawowej analizy",
+        "extendedPalette": "Rozszerzona paleta kolorów (wzornik)",
+        "accessories": "Wskazówki dotyczące biżuterii i dodatków",
+        "combining": "Nauka łączenia kolorów w stylizacjach"
+      }
+    },
+    "rose": {
+      "title": "VIP analiza kolorystyczna - RÓŻA",
+      "description": "Ekskluzywna usługa łącząca analizę kolorystyczną oraz przegląd szafy   by świadomie zarządzać swoim wizerunkiem na różne okazje.",
+      "price": "500 PLN",
+      "features": {
+        "complex": "Wszystko z kompleksowej analizy",
+        "wardrobe": "Przegląd Twojej garderoby",
+        "shopping": "Omówienie stylizacji na każdą okazję na podstawie tego co masz w szafie",
+        "support": "14-dniowe wsparcie po analizie"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Opinie klientek",
+    "subtitle": "Zobacz, co mówią kobiety, które już odkryły swoje idealne kolory.",
+    "types": {
+      "spring": "Typ Wiosna",
+      "summer": "Typ Lato",
+      "autumn": "Typ Jesień",
+      "winter": "Typ Zima"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Lena",
+        "colorType": "autumn",
+        "content": "Można przez lata wydawać tysiące złotych na nietrafione ubrania, źle dobrane kolory włosów, makijaże, które nas gaszą — i dalej nie wiedzieć, co nam naprawdę pasuje. Ja w końcu postanowiłam zainwestować raz, a dobrze. Ta analiza kolorystyczna to była najlepsza decyzja — rzetelna, pięknie przygotowana, konsultacja bardzo profesjonalna. To inwestycja na całe życie, która sprawdza się wszędzie: w szafie, u fryzjera, przy zakupie okularów czy szminki. Każda kobieta powinna to przejść!",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "Dominika",
+        "colorType": "summer",
+        "content": "Na początku sceptycznie podchodziłam do wersji online, ale teraz uważam, że to był strzał w dziesiątkę. Efekt absolutnie ten sam jak na żywo — prezentacja cudowna, konsultacja bardzo dokładna, a ja mogłam zrobić to bez dojeżdżania i tracenia całego dnia. Wygodnie, profesjonalnie i z klasą!",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "name": "Martyna",
+        "colorType": "autumn",
+        "content": "Mieszkam w większym mieście i są tutaj kolorystki, ale zdecydowałam się na analizę u Ciebie, bo od razu poczułam zaufanie. Twój profesjonalizm w  wizerunku i sposób, w jaki komunikujesz swoją wiedzę, zrobiły na mnie ogromne wrażenie. Po prostu wiedziałam, że to będzie dobra decyzja — i była!",
+        "rating": 5
+      },
+      {
+        "id": 4,
+        "name": "Magdalena",
+        "colorType": "summer",
+        "content": "Nie sądziłam, że analiza kolorystyczna może aż tak odmienić moje życie! Dzięki konsultacji z Asią, zrozumiałam, dlaczego niektóre kolory mnie gaszą, a inne sprawiają, że wyglądam świeżo i promiennie. Profesjonalizm 100%!",
+        "rating": 5
+      },
+      {
+        "id": 5,
+        "name": "Agnieszka",
+        "colorType": "autumn",
+        "content": "Prezentacja była przepięknie przygotowana — estetyczna, przejrzysta, idealnie dopasowana do mojej urody. Czułam się zaopiekowana na każdym etapie. Teraz zakupy są przyjemnością, a nie męką!",
+        "rating": 5
+      },
+      {
+        "id": 6,
+        "name": "Karolina",
+        "colorType": "autumn",
+        "content": "Zawsze myślałam, że jestem chłodnym typem, a tu zaskoczenie — jestem ciepłą jesienią! Dzięki rzetelnej analizie zmieniłam kolor włosów i… nie mogę się napatrzeć w lustro. Dziękuję!",
+        "rating": 5
+      },
+      {
+        "id": 7,
+        "name": "Julia",
+        "colorType": "spring",
+        "content": "To nie była tylko analiza kolorów — to była podróż do odkrycia siebie. Konsultacja była przeprowadzona z ogromną empatią i profesjonalizmem. W końcu wiem, jakie kolory naprawdę mi służą.",
+        "rating": 5
+      },
+      {
+        "id": 8,
+        "name": "Katarzyna",
+        "colorType": "summer",
+        "content": "Zrobiłam analizę kolorystyczną online i… już nigdy nie wrócę do przypadkowych zakupów! Prezentacja była piękna i bardzo konkretna. To była najlepsza decyzja w tym roku.",
+        "rating": 5
+      },
+      {
+        "id": 9,
+        "name": "Marta",
+        "colorType": "winter",
+        "content": "Miałam mnóstwo wątpliwości przed analizą online, ale zostałam totalnie zaskoczona jakością i dokładnością. Czułam się jak na prywatnej konsultacji na żywo! Polecam z całego serca.",
+        "rating": 5
+      },
+      {
+        "id": 10,
+        "name": "Natalia",
+        "colorType": "spring",
+        "content": "Nie wierzyłam, że zmiana palety kolorów może mieć aż taki wpływ! Odmłodniałam wizualnie, nauczyłam się wybierać ubrania i dodatki. Prezentacja była mistrzowska – wszystko podane na tacy.",
+        "rating": 5
+      },
+      {
+        "id": 11,
+        "name": "Beata",
+        "colorType": "autumn",
+        "content": "Asia to mistrzyni w swoim fachu. Każdy szczegół w prezentacji był dopracowany, a rozmowa po analizie rozwiała wszystkie moje wątpliwości. W końcu nie marnuję pieniędzy na ubrania, które mnie 'gaszą'.",
+        "rating": 5
+      },
+      {
+        "id": 12,
+        "name": "Sylwia",
+        "colorType": "summer",
+        "content": "Zmieniłam nie tylko kolory ubrań, ale też sposób patrzenia na siebie. Po konsultacji zrozumiałam, jak kolory wpływają na moje samopoczucie i wizerunek. Polecam każdej kobiecie!",
+        "rating": 5
+      },
+      {
+        "id": 13,
+        "name": "Oliwia",
+        "colorType": "spring",
+        "content": "Dzięki tej analizie znalazłam swój styl i przestałam błądzić po sklepach. Kolory, które kiedyś omijałam, teraz podkreślają moją urodę. Ogromne dzięki za zaangażowanie i profesjonalizm!",
+        "rating": 5
+      },
+      {
+        "id": 14,
+        "name": "Izabela",
+        "colorType": "summer",
+        "content": "Widać, że Asia ma ogromne doświadczenie – konsultacja była rzeczowa, ale bardzo przyjazna. Prezentacja – bajka! Wszystko zrozumiale wyjaśnione, z przykładami. Czułam się wyjątkowo.",
+        "rating": 5
+      },
+      {
+        "id": 15,
+        "name": "Ewa",
+        "colorType": "autumn",
+        "content": "Metamorfoza mojego stylu zaczęła się od tej analizy kolorystycznej. Efekty przerosły moje oczekiwania – czuję się piękniejsza i pewniejsza siebie. To była najlepsza inwestycja w mój wygląd i samopoczucie.",
+        "rating": 5
+      },
+      {
+        "id": 16,
+        "name": "Aneta",
+        "colorType": "autumn",
+        "content": "Mieszkam w mniejszym mieście i nie mam u siebie specjalistki od analizy kolorystycznej. Kiedy znalazłam ofertę online, wiedziałam, że to dla mnie. Nie musiałam brać urlopu, nie musiałam jechać kilka godzin w jedną stronę — wszystko odbyło się zdalnie, a efekt? Fenomenalny! Wreszcie wiem, jakie kolory mi służą.",
+        "rating": 5
+      },
+      {
+        "id": 17,
+        "name": "Joanna",
+        "colorType": "autumn",
+        "content": "Przekonałaś mnie nie tylko ofertą, ale sobą. Widać, że jesteś swoją własną klientką — to, jak wyglądasz, jak się prezentujesz i jak komunikujesz swoją wiedzę, sprawia, że człowiek od razu chce to samo dla siebie. Dziękuję, że pokazujesz, że można!",
+        "rating": 5
+      },
+      {
+        "id": 18,
+        "name": "Patrycja",
+        "colorType": "autumn",
+        "content": "Twój wizerunek to Twoja wizytówka — wszystko, co pokazujesz, jest spójne, stylowe i przemyślane. Nie musiałam długo się zastanawiać. Jeśli ktoś sam wygląda tak świetnie, to znaczy, że potrafi to przenieść też na innych.",
+        "rating": 5
+      },
+      {
+        "id": 19,
+        "name": "Paulina",
+        "colorType": "autumn",
+        "content": "Zanim jeszcze skorzystałam z analizy, zobaczyłam profil i od razu pomyślałam: ta kobieta wie, co robi. Twój wizerunek mówi sam za siebie — jesteś perfekcyjnym przykładem na to, że analiza kolorystyczna działa. Profesjonalizm w każdym detalu.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Masz pytania lub chcesz umówić się na wizytę? Skontaktuj się ze mną.",
+    "language": "pl",
+    "contactForm": {
+      "title": "Formularz kontaktowy"
+    },
+    "bookingForm": {
+      "title": "Rezerwacja wizyty"
+    }
+  },
+  "booking": {
+    "title": "Rezerwacja wizyty",
+    "backToHome": "Powrót do strony głównej",
+    "subtitle": "Wybierz usługę, a ja skontaktuję się z Tobą w celu ustalenia szczegółów.",
+    "language": "pl"
+  },
+  "contactConfirmation": {
+    "title": "Wiadomość wysłana!",
+    "message": "Dziękujemy za kontakt. Odezwiemy się najszybciej jak to możliwe.",
+    "redirect": "Zostaniesz przekierowany na stronę główną za {{count}} sekund.",
+    "backToHome": "Powrót do strony głównej"
+  },
+  "bookingConfirmation": {
+    "title": "Rezerwacja przyjęta!",
+    "message": "Dziękujemy za rezerwację wizyty. Skontaktuję się z Tobą wkrótce, aby potwierdzić termin.",
+    "redirect": "Zostaniesz przekierowany na stronę główną za {{count}} sekund.",
+    "backToHome": "Powrót do strony głównej"
+  },
+  "forms": {
+    "validation": {
+      "nameRequired": "Imię jest wymagane (min. 2 znaki, maks. 30 znaków)",
+      "emailValid": "Podaj prawidłowy adres email",
+      "messageLength": "Wiadomość powinna zawierać min. 10 znaków i nie więcej niż 500 znaków",
+      "phoneLength": "Numer telefonu musi zawierać poprawny międzynarodowy prefiks (np. +48 lub 0048) oraz co najmniej 7 cyfr",
+      "serviceRequired": "Wybierz dostępną usługę",
+      "dateRequired": "Wybierz datę wizyty",
+      "timeRequired": "Wybierz godzinę wizyty",
+      "invalidTime": "Wybierz godzinę między 9:00 a 18:00",
+      "contactMethodRequired": "Podaj dane kontaktowe dla wybranej metody kontaktu",
+      "preferredContactRequired": "Wybierz preferowaną metodę kontaktu"
+    },
+    "warning": {
+      "dataLoss": "Masz niezapisane zmiany. Jeśli opuścisz stronę, Twoje informacje zostaną utracone."
+    },
+    "submitting": "Wysyłanie...",
+    "contact": {
+      "name": "Imię",
+      "namePlaceholder": "Twoje imię",
+      "email": "Adres e-mail",
+      "emailPlaceholder": "twoj@email.pl",
+      "phone": "Numer telefonu",
+      "phonePlaceholder": "Twój numer telefonu: +481234567",
+      "preferredContact": "Preferowana metoda kontaktu",
+      "contactEmail": "E-mail",
+      "contactPhone": "Telefon (kontakt tylko poprzez WhatsApp)",
+      "requiredField": "Wymagane dla wybranej metody kontaktu",
+      "message": "Wiadomość",
+      "messagePlaceholder": "Twoja wiadomość...",
+      "submit": "Wyślij wiadomość",
+      "success": {
+        "title": "Wiadomość wysłana!",
+        "message": "Dziękujemy za kontakt. Odezwiemy się najszybciej jak to możliwe."
+      },
+      "error": {
+        "title": "Błąd podczas wysyłania",
+        "message": "Wystąpił problem z wysłaniem wiadomości. Spróbuj ponownie później."
+      }
+    },
+    "booking": {
+      "name": "Imię",
+      "namePlaceholder": "Twoje imię",
+      "email": "Adres e-mail",
+      "emailPlaceholder": "twoj@email.pl",
+      "phone": "Numer telefonu",
+      "phonePlaceholder": "Twój numer telefonu: +481234567",
+      "preferredContact": "Preferowana forma kontaktu",
+      "preferredContactPlaceholder": "Wybierz formę kontaktu",
+      "contactEmail": "Email",
+      "contactPhone": "Telefon (kontakt tylko poprzez WhatsApp)",
+      "service": "Usługa",
+      "servicePlaceholder": "Wybierz usługę",
+      "date": "Preferowana data",
+      "time": "Preferowana godzina",
+      "timePlaceholder": "Wybierz godzinę",
+      "message": "Dodatkowe informacje",
+      "messagePlaceholder": "Dodatkowe informacje lub pytania...",
+      "submit": "Zarezerwuj wizytę",
+      "success": "Dziękujemy za rezerwację. Skontaktujemy się z Tobą w celu potwierdzenia terminu.",
+      "error": {
+        "title": "Błąd podczas rezerwacji",
+        "message": "Wystąpił problem z dokonaniem rezerwacji. Spróbuj ponownie później."
+      },
+      "leaveConfirmation": "Masz niezapisane zmiany. Czy na pewno chcesz opuścić tę stronę? Twoje dane zostaną utracone.",
+      "unsavedChanges": "Masz niezapisane zmiany. Czy na pewno chcesz opuścić tę stronę?"
+    }
+  },
+  "footer": {
+    "description": "Profesjonalna analiza kolorystyczna, która pomoże Ci odkryć kolory podkreślające Twoją naturalną urodę.",
+    "contact": "Kontakt",
+    "phone": "+48 786 530 833",
+    "email": "soft.academy.as@gmail.com",
+    "quickLinks": "Szybkie linki",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności",
+    "terms": "Regulamin",
+    "backToHome": "Powrót do strony głównej",
+    "cookiePreferences": "Preferencje cookies"
+  },
+  "notFound": {
+    "title": "404 Strona nie znaleziona",
+    "description": "Czy zapomniałeś dodać stronę do routera?"
+  },
+  "loading": {
+    "portfolio": "Ładowanie portfolio...",
+    "testimonials": "Ładowanie opinii...",
+    "general": "Ładowanie..."
+  },
+  "errors": {
+    "general": "Wystąpił błąd",
+    "formSubmission": "Błąd wysyłania formularza",
+    "dataFetch": "Błąd pobierania danych",
+    "tryAgain": "Spróbuj ponownie"
+  },
+  "console": {
+    "noCookieConsent": "Brak zgody na cookies - pokazuję banner",
+    "cookieConsentExists": "Zgoda na cookies już istnieje - ukrywam banner",
+    "cookieParseError": "Błąd parsowania preferencji cookies, używam domyślnych",
+    "acceptedAllCookies": "Zaakceptowano wszystkie cookies",
+    "rejectedOptionalCookies": "Odrzucono opcjonalne cookies",
+    "savedPreferences": "Zapisano preferencje cookies:",
+    "resetConsent": "Zresetowano zgodę na cookies"
+  },
+  "email": {
+    "contactSubject": "Nowa wiadomość z formularza kontaktowego - Akademia Soft",
+    "bookingSubject": "Nowa rezerwacja wizyty - Akademia Soft",
+    "placeholder": "a2b4e92552626a17586ff8058b7da66e"
+  },
+  "accessibility": {
+    "breadcrumb": "Pasek nawigacyjny",
+    "pagination": "Paginacja",
+    "previousPage": "Przejdź do poprzedniej strony",
+    "nextPage": "Przejdź do następnej strony",
+    "toggleSidebar": "Przełącz panel boczny",
+    "previousTestimonial": "Poprzednia opinia",
+    "nextTestimonial": "Następna opinia",
+    "instagram": "Instagram",
+    "instagramLink": "https://www.instagram.com/akademia_soft/?igsh=MTd0b2l1ZGhldTAy#"
+  },
+  "dev": {
+    "resetCookies": "Reset Cookies (DEV)"
+  },
+  "cookieBanner": {
+    "title": "Ta strona używa plików cookies",
+    "description": "Strona korzysta z plików cookies (ciasteczek) wyłącznie w celach technicznych, nie używamy plików cookies marketingowych ani analitycznych. Dalsze korzystanie ze strony oznacza, że zgadzasz się na ich użycie. Pamiętaj, że opcje zapisu plików cookies możesz zmienić w swojej przeglądarce. Więcej informacji uzyskasz w polityce prywatności.",
+    "acceptAll": "Akceptuj wszystkie",
+    "rejectAll": "Odrzuć",
+    "customize": "Dostosuj",
+    "required": "Wymagane",
+    "enabled": "Włączone",
+    "cancel": "Anuluj",
+    "savePreferences": "Zapisz preferencje",
+    "preferences": {
+      "title": "Preferencje plików cookies",
+      "description": "Wybierz, które typy plików cookies chcesz zaakceptować. Możesz w każdej chwili zmienić swoje preferencje."
+    },
+    "categories": {
+      "necessary": "Niezbędne",
+      "necessaryDesc": "Te pliki cookies są niezbędne do prawidłowego funkcjonowania strony internetowej i nie mogą być wyłączone. Obejmują cookies sesji, bezpieczeństwa i podstawowej funkcjonalności strony.",
+      "functional": "Funkcjonalne",
+      "functionalDesc": "Te pliki cookies umożliwiają stronie zapamiętanie Twoich preferencji, takich jak język, region, ustawienia dostępności i inne personalizacje interfejsu użytkownika."
+    },
+    "details": {
+      "title": "Szczegółowe informacje o plikach cookies",
+      "necessary": {
+        "session": {
+          "name": "Cookies sesji",
+          "purpose": "Umożliwiają zachowanie ciągłości sesji podczas przeglądania strony",
+          "duration": "Do zamknięcia przeglądarki",
+          "type": "Niezbędne"
+        },
+        "security": {
+          "name": "Cookies bezpieczeństwa",
+          "purpose": "Chronią przed atakami CSRF i zapewniają bezpieczne przesyłanie danych",
+          "duration": "Do zamknięcia przeglądarki",
+          "type": "Niezbędne"
+        },
+        "consent": {
+          "name": "Cookies zgody",
+          "purpose": "Przechowuje informacje o udzielonej zgodzie na pliki cookies",
+          "duration": "12 miesięcy",
+          "type": "Niezbędne"
+        }
+      },
+      "functional": {
+        "preferences": {
+          "name": "Cookies preferencji",
+          "purpose": "Zapamiętują wybrane ustawienia języka, motywu i innych preferencji użytkownika",
+          "duration": "12 miesięcy",
+          "type": "Funkcjonalne"
+        },
+        "language": {
+          "name": "Cookies językowe",
+          "purpose": "Zapamiętuje wybrany język interfejsu użytkownika",
+          "duration": "12 miesięcy",
+          "type": "Funkcjonalne"
+        }
+      }
+    }
+  },
+  "privacyPolicy": {
+    "lastUpdated": "Ostatnia aktualizacja",
+    "date": "1 sierpnia 2025",
+    "sections": {
+      "section1": {
+        "title": "POLITYKA PRYWATNOŚCI",
+        "content1": "Niniejsza Polityka stanowi podstawową informację o celach, sposobach przetwarzania oraz bezpieczeństwie Twoich danych osobowych, jako użytkownika strony: softacademy.com.pl (zwanej dalej Stroną). Zapoznając się z Polityką prywatności dowiesz się kto jest administratorem Twoich danych osobowych, jakie dane osobowe są przez Stronę zbierane, w jakich celach są wykorzystywane oraz jak są chronione."
+      },
+      "section2": {
+        "title": "§1. Informacje podstawowe.",
+        "content1": "Zgodnie z art. 13 ust. 1 i 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. (RODO), administratorem Twoich danych osobowych jest Joanna Kluczewska działając na podstawie nierejestrowanej działalności gospodarczej zgodnie z art. 5 ust. 1 ustawy Prawo przedsiębiorców.",
+        "content2": "Kontakt z Administratorem jest możliwy za pośrednictwem:",
+        "items": {
+          "item1": "poczty e-mail: soft.academy.as@gmail.com",
+          "item2": "telefonicznie: 786-530-833"
+        }
+      },
+      "section3": {
+        "title": "§2. Zasady przetwarzania danych.",
+        "items": {
+          "item1": "W oparciu o podstawę prawną i zgodnie z prawem (legalizm);",
+          "item2": "Rzetelnie i uczciwie (rzetelność);",
+          "item3": "W sposób przejrzysty dla osoby, której dane dotyczą (transparentność);",
+          "item4": "W konkretnych celach i nie \"na zapas\" (minimalizacja);",
+          "item5": "Nie więcej niż potrzeba (adekwatność);",
+          "item6": "Z dbałością o prawidłowość danych (prawidłowość);",
+          "item7": "Nie dłużej niż potrzeba (czasowość);",
+          "item8": "Zapewniając odpowiednie bezpieczeństwo danych (bezpieczeństwo)."
+        }
+      },
+      "section4": {
+        "title": "§3. Cele, podstawy prawne i zakres przetwarzania danych.",
+        "content1": "Twoje dane będziemy przetwarzać w następujących celach:",
+        "items": {
+          "item1": "Kontakt – odpowiedź na Twoją wiadomość (e-mail, formularz, imię, telefon);",
+          "item2": "Wysyłka - ewentualna wysyłka akcesoriów w zależności od pakietu (adres korespondencyjny, imię, nazwisko);",
+          "item3": "Informacyjne – ważne informacje o usługach;",
+          "item4": "Media społecznościowe – prowadzenie profilu, publikacje, reklamy;",
+          "item5": "Techniczne – poprawne działanie strony (cookies techniczne);",
+          "item6": "Konsultacje - konsultacje online przez WhatsApp lub inne komunikatory z funkcją wideo;",
+          "item7": "Archiwizacja – e-maile, numery telefonów, wiadomości;",
+          "item8": "Analiza danych anonimowych – przeglądarka, czas na stronie, kliknięcia."
+        }
+      },
+      "section5": {
+        "title": "§4. Na Stronie nie dokonujemy automatycznego profilowania.",
+        "items": {
+          "item1": "Nie korzystamy z automatycznego profilowania, które pozwalałoby na kierowanie reklam do konkretnych osób."
+        }
+      },
+      "section6": {
+        "title": "§5. Odbiorcy danych oraz transfer poza EOG.",
+        "items": {
+          "item1": "Instytucje publiczne – jeśli wymaga tego prawo.",
+          "item2": "Dostawcy usług: hosting, programowanie, marketing, chmura."
+        }
+      },
+      "section7": {
+        "title": "§6. Termin przechowywania danych.",
+        "items": {
+          "item1": "Przechowujemy dane tak długo, jak są potrzebne do realizacji celu.",
+          "item2": "Dane z wiadomości – do momentu usunięcia lub sprzeciwu."
+        }
+      },
+      "section8": {
+        "title": "§7. Prawa użytkowników.",
+        "items": {
+          "item1": "Prawo dostępu, sprostowania, usunięcia, ograniczenia przetwarzania.",
+          "item2": "Prawo do przenoszenia danych.",
+          "item3": "Prawo do sprzeciwu.",
+          "item4": "Prawo do cofnięcia zgody.",
+          "item5": "Prawo do złożenia skargi do UODO."
+        }
+      },
+      "section9": {
+        "title": "§8. Informacja o ciasteczkach.",
+        "items": {
+          "item1": "Używamy cookies technicznych.",
+          "item2": "Masz możliwość zarządzania zgodami przez wtyczkę zgodną z Consent Mode v2.",
+          "item3": "Cookies to małe pliki tekstowe przechowywane na Twoim urządzeniu.",
+          "item4": "Mogą być stałe lub tymczasowe.",
+          "item6": "Możesz zarządzać cookies w ustawieniach przeglądarki."
+        }
+      },
+      "section10": {
+        "title": "§9. Dlaczego korzystamy z ciasteczek?",
+        "items": {
+          "item1": "Komfort i personalizacja treści.",
+          "item2": "Zapamiętywanie ustawień.",
+          "item3": "Ułatwienie logowania i utrzymanie sesji.",
+          "item4": "Optymalizacja wydajności i analiza ruchu.",
+          "item5": "Reklamy dopasowane do zainteresowań.",
+          "item6": "Integracja z mediami społecznościowymi."
+        }
+      },
+      "section11": {
+        "title": "§10. Funkcje ciasteczek technicznych.",
+        "items": {
+          "item1": "Utrzymanie sesji.",
+          "item2": "Zapamiętywanie preferencji.",
+          "item3": "Obsługa formularzy.",
+          "item4": "Optymalizacja działania strony.",
+          "item5": "Zwiększenie bezpieczeństwa."
+        }
+      },
+      "section12": {
+        "title": "§11. Funkcje ciasteczek analitycznych.",
+        "items": {
+          "item1": "Pomiar ruchu.",
+          "item2": "Analiza zachowań użytkowników.",
+          "item3": "Optymalizacja konwersji.",
+          "item4": "Segmentacja użytkowników.",
+          "item5": "Testowanie A/B."
+        }
+      },
+      "section13": {
+        "title": "§12. Funkcje ciasteczek reklamowych.",
+        "items": {
+          "item1": "Spersonalizowane reklamy.",
+          "item2": "Remarketing.",
+          "item3": "Pomiar skuteczności kampanii.",
+          "item4": "Zarządzanie reklamami w wielu kanałach.",
+          "item5": "Testowanie i optymalizacja reklam."
+        }
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "REGULAMIN",
+    "lastUpdated": "Ostatnia aktualizacja",
+    "date": "1 sierpnia 2025",
+    "sections": {
+      "section1": {
+        "title": "§1. Informacje ogólne",
+        "items": {
+          "item1": "Niniejszy regulamin określa zasady korzystania ze strony internetowej dostępnej pod adresem softacademy.com.pl (dalej: „Strona”).",
+          "item2": "Właścicielką strony jest Joanna Kluczewska, działająca w ramach tzw. działalności nierejestrowanej, zgodnie z art. 5 ust. 1 ustawy Prawo przedsiębiorców.",
+          "item3": "Działalność ma charakter nierejestrowany i nie jest wpisana do Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG).",
+          "item4": "Kontakt z właścicielem strony możliwy jest pod adresem e-mail: soft.academy.as@gmail.com lub telefonicznie: 786530833."
+        }
+      },
+      "section2": {
+        "title": "§2. Charakter strony",
+        "items": {
+          "item1": "Strona ma charakter informacyjny i umożliwia użytkownikom kontakt z właścicielem.",
+          "item2": "Strona nie prowadzi sprzedaży towarów ani usług przez Internet.",
+          "item3": "Wysłanie zapytania przez formularz lub e-mail nie jest równoznaczne z zawarciem umowy i nie rodzi po stronie właściciela żadnych obowiązków, poza udzieleniem odpowiedzi (o ile to możliwe)."
+        }
+      },
+      "section3": {
+        "title": "§3. Zasady korzystania ze Strony",
+        "items": {
+          "item1": "Użytkownik zobowiązany jest do korzystania ze Strony zgodnie z przepisami prawa i niniejszym regulaminem.",
+          "item2": "Zabronione jest przesyłanie treści obraźliwych, bezprawnych, zawierających wirusy lub spam.",
+          "item3": "Właściciel nie ponosi odpowiedzialności za czasową niedostępność Strony lub błędy techniczne.",
+          "item4": "Wszelkie materiały zamieszczone na tej stronie internetowej, w tym teksty, grafiki, zdjęcia, logo, ikony są chronione prawem autorskim i stanowią własność Joanny Kluczewskiej, chyba że zaznaczono inaczej. Zabrania się kopiowania, rozpowszechniania, modyfikowania lub wykorzystywania jakichkolwiek treści bez uprzedniej, pisemnej zgody właściciela praw autorskich. Korzystanie z treści strony w sposób zgodny z prawem cytatu wymaga podania źródła."
+        }
+      },
+      "section4": {
+        "title": "§4. Formularz kontaktowy",
+        "items": {
+          "item1": "Strona może zawierać formularz kontaktowy, który umożliwia wysłanie wiadomości do właściciela.",
+          "item2": "Podanie danych (np. imienia i adresu e-mail) jest dobrowolne, ale może być niezbędne do uzyskania odpowiedzi.",
+          "item3": "Dane przesyłane przez formularz lub e-mail przetwarzane są zgodnie z zasadami opisanymi w Polityce prywatności."
+        }
+      },
+      "section5": {
+        "title": "§5. Ochrona danych osobowych",
+        "items": {
+          "item1": "Administratorem danych osobowych jest Joanna Kluczewska, prowadząca działalność nierejestrowaną.",
+          "item2": "Dane osobowe przetwarzane są wyłącznie w celu kontaktu zwrotnego.",
+          "item3": "Szczegóły dotyczące przetwarzania danych osobowych oraz plików cookies zawiera Polityka prywatności, dostępna pod adresem softacademy.com/privacy-policy."
+        }
+      },
+      "section6": {
+        "title": "§6. Pliki cookies",
+        "items": {
+          "item1": "Strona może wykorzystywać pliki cookies w celach technicznych i analitycznych.",
+          "item2": "Użytkownik może samodzielnie zarządzać plikami cookies za pomocą ustawień swojej przeglądarki.",
+          "item3": "Szczegółowe informacje na ten temat znajdują się w Polityce prywatności."
+        }
+      },
+      "section7": {
+        "title": "§7. Postanowienia końcowe",
+        "items": {
+          "item1": "Regulamin może zostać zmieniony w każdym czasie poprzez opublikowanie nowej wersji na Stronie.",
+          "item2": "Korzystanie ze Strony po wprowadzeniu zmian oznacza ich akceptację.",
+          "item3": "W sprawach nieuregulowanych niniejszym regulaminem zastosowanie mają przepisy prawa polskiego."
+        }
+      }
+    }
+  },
+  "admin": {
+    "nav": {
+      "messages": "Wiadomości",
+      "bookings": "Rezerwacje",
+      "testimonials": "Opinie",
+      "portfolio": "Portfolio",
+      "logout": "Wyloguj się"
+    },
+    "messages": {
+      "title": "Wiadomości",
+      "markRead": "Oznacz jako przeczytane",
+      "markUnread": "Oznacz jako nieprzeczytane",
+      "statusUpdated": "Status wiadomości zaktualizowany",
+      "empty": {
+        "title": "Brak wiadomości",
+        "description": "Nie masz żadnych wiadomości od klientów."
+      }
+    },
+    "bookings": {
+      "title": "Rezerwacje",
+      "service": "Usługa",
+      "date": "Data",
+      "time": "Godzina",
+      "message": "Dodatkowe informacje",
+      "statusUpdated": "Status rezerwacji zaktualizowany",
+      "status": {
+        "pending": "Oczekująca",
+        "confirmed": "Potwierdzona",
+        "cancelled": "Anulowana"
+      },
+      "empty": {
+        "title": "Brak rezerwacji",
+        "description": "Nie masz żadnych rezerwacji od klientów."
+      }
+    },
+    "testimonials": {
+      "title": "Zarządzanie opiniami",
+      "description": "Dodawaj, edytuj i usuwaj opinie klientów wyświetlane na stronie.",
+      "addNew": "Dodaj nową opinię",
+      "comingSoon": {
+        "title": "Wkrótce dostępne",
+        "description": "Funkcjonalność zarządzania opiniami będzie dostępna w przyszłej aktualizacji."
+      }
+    },
+    "portfolio": {
+      "title": "Zarządzanie portfolio",
+      "description": "Dodawaj, edytuj i usuwaj zdjęcia w portfolio.",
+      "addNew": "Dodaj nowe zdjęcie",
+      "comingSoon": {
+        "title": "Wkrótce dostępne",
+        "description": "Funkcjonalność zarządzania portfolio będzie dostępna w przyszłej aktualizacji."
+      }
+    },
+    "errors": {
+      "loadMessages": "Nie udało się załadować wiadomości",
+      "loadBookings": "Nie udało się załadować rezerwacji",
+      "updateMessage": "Nie udało się zaktualizować wiadomości",
+      "updateBooking": "Nie udało się zaktualizować rezerwacji",
+      "logout": "Nie udało się wylogować",
+      "tryAgain": "Spróbuj ponownie później"
+    }
+  }
+}

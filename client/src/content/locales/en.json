@@ -1,0 +1,764 @@
+{
+  "nav": {
+    "home": "Home",
+    "aboutAnalysis": "About the Analysis",
+    "aboutMe": "About Me",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "testimonials": "References",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the most common questions about color analysis",
+    "questions": {
+      "q1": "What is color analysis?",
+      "q2": "How to prepare for a color analysis?",
+      "q3": "When will I receive the results?",
+      "q4": "In‑person or online analysis – which should I choose?",
+      "q5": "How much time do I need to prepare for the analysis?",
+      "q6": "Is color analysis useful for men?",
+      "q7": "What will I receive after the color analysis?",
+      "q8": "How long are the results of the color analysis valid?",
+      "q9": "What if I disagree with the analysis results?",
+      "q10": "Can I book the analysis together with a friend?",
+      "q11": "Can one determine their beauty type by comparing oneself to others?",
+      "q12": "I will fill out the form — what happens next?"
+    },
+    "answers": {
+      "a1": "Color analysis is not just about identifying a season and subtype—it’s a comprehensive process of creating an individual color palette that best harmonizes with the natural tones of your skin, hair, and eyes. With the analysis, you’ll discover which palette accentuates your natural beauty and which might make you look tired or older.",
+      "a2": "For the analysis, send several photos taken in natural daylight, against a white background, without makeup, jewelry, or glasses. If you dye your hair, wait until regrowth is visible. Hold up color samples near your face—they can be your clothes, towels, bedding, or family members’ garments; the important part is to showcase a full range of basic colors.",
+      "a3": "You will receive results within up to 10 business days. If you choose the comprehensive color analysis package, you’ll also have the opportunity to discuss your results during a 30‑minute consultation.",
+      "a4": "Both formats have their advantages, but online analysis undoubtedly wins in terms of time efficiency. You don’t need to take a day off or travel for hours to find out which colors suit you best. I only need a few of your photos to determine your color palette with the same level of precision. Moreover, atmospheric conditions, time of day, and season can influence the outcome—online analysis provides more consistent conditions and thus greater accuracy.",
+      "a5": "Very little. You’ll complete a brief form answering questions about your features and favorite or avoided colors, and send some photos of your face with different color samples—and that’s it.",
+      "a6": "Absolutely! Color analysis is just as beneficial for men as it is for women. Men’s color palettes tend to be more muted. The analysis helps select suitable colors for suits, shirts, sweaters, and other wardrobe items, resulting in a more professional and appealing look.",
+      "a7": "Depending on the package you choose, you may receive additional benefits such as a follow‑up consultation or a custom keychain to help avoid poor color choices when shopping. Every package includes a personalized report with your palette and styling, makeup, and accessory recommendations.",
+      "a8": "Color analysis is a lifelong investment—you do it once and enjoy it forever. Beauty type doesn’t change with age. While your appearance may soften with graying hair, you won’t become the opposite type. That’s why investing makes sense—to enjoy harmonious shopping, styling, and hair color decisions for years to come.",
+      "a9": "It can happen that your favorite color belongs to your opposite type’s palette—meaning it may not suit you. I’ve had the same experience with light blue. But remember: this analysis is a report with <strong>objective</strong> advice on what suits you best. You don’t have to give up your beloved colors or force yourself to wear colors you don’t like.",
+      "a10": "Certainly! Bringing another person grants both of you a 10% discount on the analysis.",
+      "a11": "Absolutely not. Color analysis or determining your beauty type is not about asking 'who do I resemble?' but 'which colors suit me?'. Numerous factors determine beauty type; two nearly identical individuals might receive different results due to subtle traits or undertones not obvious at first glance.",
+      "a12": "When you submit the form, you will choose your preferred method of contact. Once I receive your message by email, I will get in touch with you using the contact method you selected. Then, I will send you a questionnaire about your beauty features along with instructions on how to take your photos."
+    },
+    "cta": "Have any additional questions?",
+    "ctaButton": "Contact Me",
+    "playSlideshow": "Start slideshow",
+    "pauseSlideshow": "Pause slideshow",
+    "largeCtaText": "Discover your natural beauty and book your consultation today!"
+  },
+  "hero": {
+    "title": {
+      "start": "Discover your",
+      "highlight": "natural beauty",
+      "end": "through Soft Academy"
+    },
+    "description": "A professional online color analysis that helps you find colors perfectly matched to your beauty, lifestyle, and personality — all from the comfort of your home.",
+    "cta": {
+      "primary": "Book an appointment",
+      "secondary": "Learn more"
+    },
+    "imageAlt": "Woman during color analysis"
+  },
+  "aboutAnalysis": {
+    "title": "What is color analysis?",
+    "subtitle": "Discover how professional color analysis can enhance your natural beauty and help you create harmonious outfits.",
+    "features": {
+      "discovery": {
+        "title": "Discovering your natural beauty",
+        "description": "Color analysis is a method that helps identify which colors best harmonize with your natural beauty—your skin tone, eye color, and hair."
+      },
+      "palette": {
+        "title": "Personal color palette",
+        "description": "As a result of the analysis, you receive a personalized palette of colors that will enhance your beauty, making you look younger and more radiant."
+      },
+      "choices": {
+        "title": "Conscious fashion choices",
+        "description": "With knowledge of your palette, you’ll make more conscious purchase decisions, create a cohesive wardrobe, and save time and money."
+      }
+    },
+    "cta": "See available services"
+  },
+  "aboutMe": {
+    "title": "About Me",
+    "paragraph1": "My name is Joanna Kluczewska—and colors are my key to happiness. They accompany me every day: in fashion, graphics, and interiors... but color in fashion became my professional passion. My mission is to help women discover their natural beauty through conscious color selection.",
+    "paragraph2": "My fascination with colors began in childhood—when I curiously wondered why some people shine cool, icy elegance while others glow with warm, Mediterranean brightness. That childhood question turned into a passion, and my passion became my profession.",
+    "paragraph3": "I am a certified color analyst, but technical knowledge is as important to me as subtlety and kindness. Not only do I choose color palettes that align with your beauty type, but I also encourage experimentation with lighter shades and wearing black less often.",
+    "paragraph4": "If you want to understand which hues accentuate your beauty and gain a tool that changes how you shop for clothes — feel warmly invited to Soft Academy.",
+    "paragraph5": "Here begins your color transformation.",
+    "imageAlt": "Professional colorist"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Discover transformations possible with professional color analysis. Below are examples of my work.",
+    "filters": {
+      "all": "All",
+      "spring": "Spring",
+      "summer": "Summer",
+      "autumn": "Autumn",
+      "winter": "Winter"
+    },
+    "types": {
+      "spring": "spring",
+      "summer": "summer",
+      "autumn": "autumn",
+      "winter": "winter"
+    },
+    "noItems": "No items in this category",
+    "beforeAfter": "Before / After",
+    "before": "Before",
+    "after": "After",
+    "colorType": "Color type",
+    "clothingBefore": "Clothing before",
+    "clothingAfter": "Clothing after",
+    "details": "Transformation details",
+    "viewDetails": "View details"
+  },
+  "services": {
+    "title": "Services & Pricing",
+    "subtitle": "Choose the service that suits your needs and begin your journey toward discovering your ideal colors.",
+    "popular": "Most popular",
+    "bookNow": "Book now",
+    "crocus": {
+      "title": "Basic Color Analysis – CROCUS",
+      "description": "Color analysis that helps you discover your beauty type and the colors that give you glow and confidence.",
+      "price": "250 PLN",
+      "features": {
+        "colorType": "Determination of your beauty type",
+        "palette": "Personalized color palette",
+        "recommendations": "Recommendations for clothing and makeup colors"
+      }
+    },
+    "lily": {
+      "title": "Comprehensive Color Analysis – LILY",
+      "description": "Color analysis extended with a consultation to discuss results via an online meeting and a dedicated swatch booklet tailored to your beauty type.",
+      "price": "350 PLN",
+      "features": {
+        "basic": "Everything included in the basic analysis",
+        "extendedPalette": "Extended color palette (swatch booklet)",
+        "accessories": "Guidance on jewelry and accessories",
+        "combining": "Training on combining colors in outfits"
+      }
+    },
+    "rose": {
+      "title": "VIP Color Analysis – ROSE",
+      "description": "An exclusive service combining color analysis and a wardrobe review—helping you curate your image for various occasions with foresight.",
+      "price": "500 PLN",
+      "features": {
+        "complex": "Everything in the comprehensive package",
+        "wardrobe": "Wardrobe review",
+        "shopping": "Discussion of outfits for various events using items you already own",
+        "support": "14‑day support after the analysis"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Client References",
+    "subtitle": "See what women who have discovered their ideal colors are saying.",
+    "types": {
+      "spring": "Spring type",
+      "summer": "Summer type",
+      "autumn": "Autumn type",
+      "winter": "Winter type"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Lena",
+        "colorType": "autumn",
+        "content": "You can spend thousands on the wrong clothes, ill‑matched hair colors, makeup that drains you—and still not know what truly suits you. I finally decided to invest once—and well. This color analysis was the best decision—thorough, beautifully presented, very professional consultation. It’s a lifetime investment that works in your wardrobe, at the hairdresser, when choosing glasses or lipstick. Every woman should do it!",
+        "rating": 5
+      },
+      {
+        "id": 2,
+        "name": "Dominika",
+        "colorType": "summer",
+        "content": "At first I was skeptical about the online version, but now I think it was spot on. The effect was absolutely the same as in‑person—wonderful presentation, very precise consultation, and I could do it without commuting or wasting the whole day. Convenient, professional, and classy!",
+        "rating": 5
+      },
+      {
+        "id": 3,
+        "name": "Martyna",
+        "colorType": "autumn",
+        "content": "I live in a bigger city where there are color analysts, but I chose yours because I immediately felt trust. Your professionalism and the way you communicate your knowledge made a strong impression. I just knew it would be the right decision—and it was!",
+        "rating": 5
+      },
+      {
+        "id": 4,
+        "name": "Magdalena",
+        "colorType": "summer",
+        "content": "I never thought color analysis could change my life so much! Thanks to the consultation with Asia, I understood why some colors drain me while others make me look fresh and glowy. 100% professionalism!",
+        "rating": 5
+      },
+      {
+        "id": 5,
+        "name": "Agnieszka",
+        "colorType": "autumn",
+        "content": "The presentation was beautifully prepared—esthetic, clear, and perfectly suited to my beauty. I felt cared for at every stage. Now shopping is a pleasure, not a chore!",
+        "rating": 5
+      },
+      {
+        "id": 6,
+        "name": "Karolina",
+        "colorType": "autumn",
+        "content": "I always thought I was a cool type, and was surprised to discover I’m a warm autumn! Thanks to the thorough analysis I changed my hair color and… I can’t stop looking at myself in the mirror. Thank you!",
+        "rating": 5
+      },
+      {
+        "id": 7,
+        "name": "Julia",
+        "colorType": "spring",
+        "content": "It wasn’t just a color analysis—it was a journey to discovering myself. The consultation was carried out with immense empathy and professionalism. Finally, I know which colors really serve me.",
+        "rating": 5
+      },
+      {
+        "id": 8,
+        "name": "Katarzyna",
+        "colorType": "summer",
+        "content": "I did a color analysis online and… I’ll never go back to random shopping! The presentation was beautiful and very concrete. It was the best decision of the year.",
+        "rating": 5
+      },
+      {
+        "id": 9,
+        "name": "Marta",
+        "colorType": "winter",
+        "content": "I had lots of doubts before the online analysis, but was totally surprised by the quality and precision. I felt like I was in a private in‑person consultation! Highly recommended from the bottom of my heart.",
+        "rating": 5
+      },
+      {
+        "id": 10,
+        "name": "Natalia",
+        "colorType": "spring",
+        "content": "I didn’t believe a palette change could make such a difference! I visually rejuvenated, learned how to pick clothes and accessories. The presentation was masterful—I got everything on a silver platter.",
+        "rating": 5
+      },
+      {
+        "id": 11,
+        "name": "Beata",
+        "colorType": "autumn",
+        "content": "Asia is a master of her craft. Every detail in the presentation was refined, and the post‑analysis talk dispelled all doubts. I finally don’t waste money on 'color-draining' clothes.",
+        "rating": 5
+      },
+      {
+        "id": 12,
+        "name": "Sylwia",
+        "colorType": "summer",
+        "content": "Not only did I change clothing colors, but also my way of perceiving myself. After the consultation I understood how colors impact my well‑being and image. I recommend it to every woman!",
+        "rating": 5
+      },
+      {
+        "id": 13,
+        "name": "Oliwia",
+        "colorType": "spring",
+        "content": "Thanks to this analysis, I found my style and stopped wandering aimlessly in stores. Colors I once avoided now highlight my beauty. Huge thanks for your dedication and professionalism!",
+        "rating": 5
+      },
+      {
+        "id": 14,
+        "name": "Izabela",
+        "colorType": "summer",
+        "content": "You can see that Asia has vast experience—the consultation was factual but very friendly. The presentation was a fairytale! Everything clearly explained, with examples. I felt special.",
+        "rating": 5
+      },
+      {
+        "id": 15,
+        "name": "Ewa",
+        "colorType": "autumn",
+        "content": "My style transformation began with this color analysis. The results exceeded expectations—I feel more beautiful and confident. It was the best investment in my appearance and well‑being.",
+        "rating": 5
+      },
+      {
+        "id": 16,
+        "name": "Aneta",
+        "colorType": "autumn",
+        "content": "I live in a smaller town and don’t have a color analyst nearby. When I found your online offer, I knew it was for me. I didn’t need to take time off, I didn’t have to travel for hours—all was done remotely, and the result? Phenomenal! Now I know what colors suit me.",
+        "rating": 5
+      },
+      {
+        "id": 17,
+        "name": "Joanna",
+        "colorType": "autumn",
+        "content": "You convinced me not just with your offer, but with yourself. You really are your own client—how you look and present yourself, and how you communicate your knowledge, makes someone immediately want the same for themselves. Thank you for showing it’s possible!",
+        "rating": 5
+      },
+      {
+        "id": 18,
+        "name": "Patrycja",
+        "colorType": "autumn",
+        "content": "Your image is your calling card—everything you present is coherent, stylish, and thoughtful. I didn’t hesitate long. If someone looks this great, it means they can move that onto others.",
+        "rating": 5
+      },
+      {
+        "id": 19,
+        "name": "Paulina",
+        "colorType": "autumn",
+        "content": "Before I even booked the analysis, I saw your profile and immediately thought: she knows what she’s doing. Your image speaks for itself—you are the perfect example that color analysis works. Professionalism in every detail.",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have questions or want to schedule a session? Get in touch.",
+    "language": "en",
+    "contactForm": {
+      "title": "Contact Form"
+    },
+    "bookingForm": {
+      "title": "Booking Form"
+    }
+  },
+  "booking": {
+    "title": "Appointment Booking",
+    "backToHome": "Back to Home",
+    "subtitle": "Choose a service and I will contact you to arrange details.",
+    "language": "en"
+  },
+  "contactConfirmation": {
+    "title": "Message Sent!",
+    "message": "Thank you for getting in touch. We will respond as soon as possible.",
+    "redirect": "You will be redirected to the homepage in {{count}} seconds.",
+    "backToHome": "Back to Home"
+  },
+  "bookingConfirmation": {
+    "title": "Booking Confirmed!",
+    "message": "Thank you for booking an appointment. I will contact you soon to confirm the date.",
+    "redirect": "You will be redirected to the homepage in {{count}} seconds.",
+    "backToHome": "Back to Home"
+  },
+  "forms": {
+    "validation": {
+      "nameRequired": "Name is required (min. 2 characters, max. 30 characters)",
+      "emailValid": "Please provide a valid email address",
+      "messageLength": "Message should be at least 10 and no more than 500 characters",
+      "phoneLength": "The phone number must include a valid international prefix (e.g. +48 or 0048) and contain at least 7 digits",
+      "serviceRequired": "Please select a service",
+      "dateRequired": "Please select a date",
+      "timeRequired": "Please select a time",
+      "invalidTime": "Please choose a time between 9:00 and 18:00",
+      "contactMethodRequired": "Provide contact details for your preferred method",
+      "preferredContactRequired": "Please select a preferred contact method"
+    },
+    "warning": {
+      "dataLoss": "You have unsaved changes. If you leave the page, your information will be lost."
+    },
+    "submitting": "Submitting...",
+    "contact": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone number",
+      "phonePlaceholder": "Your phone number: +481234567",
+      "preferredContact": "Preferred contact method",
+      "contactEmail": "Email",
+      "contactPhone": "Phone (contact only via WhatsApp)",
+      "requiredField": "Required for selected contact method",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "submit": "Send message",
+      "success": {
+        "title": "Message Sent!",
+        "message": "Thank you for getting in touch. We’ll be in touch as soon as possible."
+      },
+      "error": {
+        "title": "Submission Error",
+        "message": "There was a problem sending the message. Please try again later."
+      }
+    },
+    "booking": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone number",
+      "phonePlaceholder": "Your phone number: +481234567",
+      "preferredContact": "Preferred method of contact",
+      "preferredContactPlaceholder": "Select preferred contact method",
+      "contactEmail": "Email",
+      "contactPhone": "Phone (contact only via WhatsApp)",
+      "service": "Service",
+      "servicePlaceholder": "Select a service",
+      "date": "Preferred date",
+      "time": "Preferred time",
+      "timePlaceholder": "Select a time",
+      "message": "Additional information",
+      "messagePlaceholder": "Any additional information or questions...",
+      "submit": "Book appointment",
+      "success": "Thank you for booking. We will contact you to confirm the date.",
+      "error": {
+        "title": "Booking Error",
+        "message": "There was an issue with booking. Please try again later."
+      },
+      "leaveConfirmation": "You have unsaved changes. Are you sure you want to leave? Your data will be lost.",
+      "unsavedChanges": "You have unsaved changes. Are you sure you want to leave?"
+    }
+  },
+  "footer": {
+    "description": "Professional color analysis that helps you discover colors highlighting your natural beauty.",
+    "contact": "Contact",
+    "phone": "+48 786 530 833",
+    "email": "soft.academy.as@gmail.com",
+    "quickLinks": "Quick Links",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "backToHome": "Back to Home",
+    "cookiePreferences": "Cookie Preferences"
+  },
+  "notFound": {
+    "title": "404 Page Not Found",
+    "description": "Did you forget to add the page to the router?"
+  },
+  "loading": {
+    "portfolio": "Loading portfolio...",
+    "testimonials": "Loading testimonials...",
+    "general": "Loading..."
+  },
+  "errors": {
+    "general": "An error occurred",
+    "formSubmission": "Form submission error",
+    "dataFetch": "Data fetching error",
+    "tryAgain": "Please try again"
+  },
+  "console": {
+    "noCookieConsent": "No cookie consent – showing banner",
+    "cookieConsentExists": "Cookie consent already exists – hiding banner",
+    "cookieParseError": "Error parsing cookie preferences, using defaults",
+    "acceptedAllCookies": "Accepted all cookies",
+    "rejectedOptionalCookies": "Rejected optional cookies",
+    "savedPreferences": "Saved cookie preferences:",
+    "resetConsent": "Cookie consent reset"
+  },
+  "email": {
+    "contactSubject": "New contact form message – Soft Academy",
+    "bookingSubject": "New appointment booking – Soft Academy",
+    "placeholder": "YOUR_EMAIL@example.com"
+  },
+  "accessibility": {
+    "breadcrumb": "Breadcrumb navigation",
+    "pagination": "Pagination",
+    "previousPage": "Go to previous page",
+    "nextPage": "Go to next page",
+    "toggleSidebar": "Toggle sidebar",
+    "previousTestimonial": "Previous testimonial",
+    "nextTestimonial": "Next testimonial",
+    "instagram": "Instagram",
+    "instagramLink": "https://www.instagram.com/softacademy_?igsh=Nm9kaTZkZHpzY2t1"
+  },
+  "dev": {
+    "resetCookies": "Reset Cookies (DEV)"
+  },
+  "cookieBanner": {
+    "title": "This site uses cookies",
+    "description": "This website uses cookies solely for technical purposes. We do not use marketing or analytics cookies. By continuing to browse the site, you agree to their use. You can change your cookie settings in your browser at any time. For more information, please refer to our Privacy Policy.",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all",
+    "customize": "Customize",
+    "required": "Required",
+    "enabled": "Enabled",
+    "cancel": "Cancel",
+    "savePreferences": "Save preferences",
+    "preferences": {
+      "title": "Cookie Preferences",
+      "description": "Choose which types of cookies you’d like to accept. You can change your preferences at any time."
+    },
+    "categories": {
+      "necessary": "Necessary",
+      "necessaryDesc": "These cookies are essential to the functioning of the website and cannot be disabled. They include session, security, and basic functionality cookies.",
+      "functional": "Functional",
+      "functionalDesc": "These cookies allow the site to remember your preferences, such as language, region, accessibility settings, and other UI customizations."
+    },
+    "details": {
+      "title": "Detailed cookie information",
+      "necessary": {
+        "session": {
+          "name": "Session cookies",
+          "purpose": "Maintain session continuity while browsing",
+          "duration": "Until browser is closed",
+          "type": "Necessary"
+        },
+        "security": {
+          "name": "Security cookies",
+          "purpose": "Protect against CSRF attacks and ensure secure data transfer",
+          "duration": "Until browser is closed",
+          "type": "Necessary"
+        },
+        "consent": {
+          "name": "Consent cookies",
+          "purpose": "Store information about given cookie consent",
+          "duration": "12 months",
+          "type": "Necessary"
+        }
+      },
+      "functional": {
+        "preferences": {
+          "name": "Preferences cookies",
+          "purpose": "Remember chosen settings like language, theme, and UI preferences",
+          "duration": "12 months",
+          "type": "Functional"
+        },
+        "language": {
+          "name": "Language cookies",
+          "purpose": "Store selected interface language",
+          "duration": "12 months",
+          "type": "Functional"
+        }
+      }
+    }
+  },
+  "privacyPolicy": {
+    "lastUpdated": "Last updated",
+    "date": "August 1, 2025",
+    "sections": {
+      "section1": {
+        "title": "PRIVACY POLICY",
+        "content1": "This Privacy Policy provides basic information about the purposes, methods of processing, and security of your personal data as a user of the site: softacademy.com.pl (hereinafter: “the Site”). By reading this Policy, you will learn who the data controller is, what personal data is collected, for what purposes it is used, and how it is protected."
+      },
+      "section2": {
+        "title": "§1. Basic information.",
+        "content1": "In accordance with Article 13(1) and (2) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (GDPR), the personal data controller is Joanna Kluczewska operating on the basis of an unregistered business activity under art. 5 §1 of the Law on Entrepreneurs.",
+        "content2": "Contact with the Controller is possible via:",
+        "items": {
+          "item1": "email: soft.academy.as@gmail.com",
+          "item2": "by phone: 786‑530‑833"
+        }
+      },
+      "section3": {
+        "title": "§2. Principles of data processing.",
+        "items": {
+          "item1": "Based on a legal basis and in accordance with law (legal basis);",
+          "item2": "Reliable and honest (reliability);",
+          "item3": "Transparent for the data subject;",
+          "item4": "For specific purposes and not 'just in case' (data minimization);",
+          "item5": "No more than necessary (adequacy);",
+          "item6": "With care for data accuracy;",
+          "item7": "No longer than necessary (storage limitation);",
+          "item8": "Ensuring appropriate data security."
+        }
+      },
+      "section4": {
+        "title": "§3. Purposes, legal bases and scope of data processing.",
+        "content1": "We process your data for the following purposes:",
+        "items": {
+          "item1": "Contact – response to your message (email, contact form, name, phone);",
+          "item2": "Shipping – possible shipment of accessories depending on the selected package (name, surname, shipping address);",
+          "item3": "Informational – important information about services;",
+          "item4": "Social media – profile management, posts, advertisements;",
+          "item5": "Technical – proper functioning of the website (technical cookies);",
+          "item6": "Consultations – online consultations via WhatsApp or other video-enabled messengers;",
+          "item7": "Archiving – emails, phone numbers, messages;",
+          "item8": "Anonymous data analysis – browser, time spent on the site, clicks."
+        }
+      },
+      "section5": {
+        "title": "§4. No automated profiling on the Site.",
+        "items": {
+          "item1": "We do not use automated profiling that enables targeting ads at specific individuals."
+        }
+      },
+      "section6": {
+        "title": "§5. Data recipients and transfers outside the EEA.",
+        "items": {
+          "item1": "Public institutions – if required by law.",
+          "item2": "Service providers: hosting, programming, marketing, cloud."
+        }
+      },
+      "section7": {
+        "title": "§6. Data retention period.",
+        "items": {
+          "item1": "We retain data as long as it is needed for its purpose.",
+          "item2": "Message data – until deletion or objection."
+        }
+      },
+      "section8": {
+        "title": "§7. Users’ rights.",
+        "items": {
+          "item1": "Right to access, rectify, delete, restrict processing.",
+          "item2": "Right to data portability.",
+          "item3": "Right to object.",
+          "item4": "Right to withdraw consent.",
+          "item5": "Right to lodge a complaint with the Personal Data Protection Authority."
+        }
+      },
+      "section9": {
+        "title": "§8. Cookie information.",
+        "items": {
+          "item1": "We use technical, analytical and marketing cookies.",
+          "item2": "You can manage consents via a plugin compatible with Consent Mode v2.",
+          "item3": "Cookies are small text files stored on your device.",
+          "item4": "They may be persistent or temporary.",
+          "item5": "Third‑party cookies are used by analytics and advertising tools.",
+          "item6": "You can manage cookies in your browser settings."
+        }
+      },
+      "section10": {
+        "title": "§9. Why we use cookies?",
+        "items": {
+          "item1": "Comfort and content personalization.",
+          "item2": "Remembering user settings.",
+          "item3": "Facilitating login and maintaining sessions.",
+          "item4": "Performance optimization and traffic analysis.",
+          "item5": "Ads tailored to interests.",
+          "item6": "Integration with social media."
+        }
+      },
+      "section11": {
+        "title": "§10. Functions of technical cookies.",
+        "items": {
+          "item1": "Session maintenance.",
+          "item2": "Remembering preferences.",
+          "item3": "Form handling.",
+          "item4": "Site optimization.",
+          "item5": "Increased security."
+        }
+      },
+      "section12": {
+        "title": "§11. Functions of analytical cookies.",
+        "items": {
+          "item1": "Traffic measurement.",
+          "item2": "User behavior analysis.",
+          "item3": "Conversion optimization.",
+          "item4": "User segmentation.",
+          "item5": "A/B testing."
+        }
+      },
+      "section13": {
+        "title": "§12. Functions of marketing cookies.",
+        "items": {
+          "item1": "Personalized ads.",
+          "item2": "Remarketing.",
+          "item3": "Campaign effectiveness measurement.",
+          "item4": "Managing ads across channels.",
+          "item5": "Ad testing and optimization."
+        }
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "TERMS OF SERVICE",
+    "lastUpdated": "Last updated",
+    "date": "August 1, 2025",
+    "sections": {
+      "section1": {
+        "title": "§1. General information",
+        "items": {
+          "item1": "These terms govern the use of the website available at softacademy.com.pl (the “Site”).",
+          "item2": "The owner is Joanna Kluczewska, operating under an unregistered business activity under art. 5 § 1 of the Law on Entrepreneurs.",
+          "item3": "This activity is unregistered and not entered in the CEIDG.",
+          "item4": "Contact to the owner is possible via email: soft.academy.as@gmail.com or by phone: 786530833."
+        }
+      },
+      "section2": {
+        "title": "§2. Nature of the Site",
+        "items": {
+          "item1": "The Site is informational and allows users to contact the owner.",
+          "item2": "The Site does not sell goods or services online.",
+          "item3": "Submitting an inquiry via form or email does not constitute a contract and places no obligations on the owner, except to respond (if possible)."
+        }
+      },
+      "section3": {
+        "title": "§3. Rules of use",
+        "items": {
+          "item1": "Users must use the Site in accordance with law and these terms.",
+          "item2": "Sending offensive, illegal, virus‑laden, or spam content is prohibited.",
+          "item3": "The owner is not liable for temporary unavailability or technical issues.",
+          "item4": "All materials on this website, including texts, graphics, photos, logos, and icons, are protected by copyright and are the property of Joanna Kluczewska, unless stated otherwise. Copying, distributing, modifying, or using any content without prior written consent from the copyright holder is strictly prohibited. Use of the content in accordance with fair use requires proper attribution of the source."
+        }
+      },
+      "section4": {
+        "title": "§4. Contact form",
+        "items": {
+          "item1": "The Site may include a contact form enabling message submission to the owner.",
+          "item2": "Providing data (e.g. name and email) is voluntary but may be required to obtain a response.",
+          "item3": "Data submitted via form or email is processed in accordance with the Privacy Policy."
+        }
+      },
+      "section5": {
+        "title": "§5. Personal data protection",
+        "items": {
+          "item1": "The data controller is Joanna Kluczewska, operating an unregistered business activity.",
+          "item2": "Personal data is processed solely to provide contact response.",
+          "item3": "Details about data and cookie processing are outlined in the Privacy Policy at softacademy.com/privacy-policy."
+        }
+      },
+      "section6": {
+        "title": "§6. Cookies",
+        "items": {
+          "item1": "The Site may use cookies for technical and analytical purposes.",
+          "item2": "Users may manage cookies via browser settings.",
+          "item3": "Detailed information is available in the Privacy Policy."
+        }
+      },
+      "section7": {
+        "title": "§7. Final provisions",
+        "items": {
+          "item1": "These terms may be amended at any time via a new version published on the Site.",
+          "item2": "Use of the Site after changes implies acceptance.",
+          "item3": "Polish law applies to matters not governed herein."
+        }
+      }
+    }
+  },
+  "admin": {
+    "nav": {
+      "messages": "Messages",
+      "bookings": "Bookings",
+      "testimonials": "References",
+      "portfolio": "Portfolio",
+      "logout": "Log Out"
+    },
+    "messages": {
+      "title": "Messages",
+      "markRead": "Mark as read",
+      "markUnread": "Mark as unread",
+      "statusUpdated": "Message status updated",
+      "empty": {
+        "title": "No messages",
+        "description": "You have no client messages."
+      }
+    },
+    "bookings": {
+      "title": "Bookings",
+      "service": "Service",
+      "date": "Date",
+      "time": "Time",
+      "message": "Additional information",
+      "statusUpdated": "Booking status updated",
+      "status": {
+        "pending": "Pending",
+        "confirmed": "Confirmed",
+        "cancelled": "Cancelled"
+      },
+      "empty": {
+        "title": "No bookings",
+        "description": "You have no client bookings."
+      }
+    },
+    "testimonials": {
+      "title": "Manage Testimonials",
+      "description": "Add, edit or delete client testimonials displayed on the site.",
+      "addNew": "Add new testimonial",
+      "comingSoon": {
+        "title": "Coming soon",
+        "description": "The testimonial management feature will be available in a future release."
+      }
+    },
+    "portfolio": {
+      "title": "Manage Portfolio",
+      "description": "Add, edit or delete portfolio images.",
+      "addNew": "Add new image",
+      "comingSoon": {
+        "title": "Coming soon",
+        "description": "Portfolio management capability will be available in a future update."
+      }
+    },
+    "errors": {
+      "loadMessages": "Failed to load messages",
+      "loadBookings": "Failed to load bookings",
+      "updateMessage": "Failed to update message",
+      "updateBooking": "Failed to update booking",
+      "logout": "Failed to log out",
+      "tryAgain": "Please try again later"
+    }
+  }
+}
