@@ -27,18 +27,19 @@ export default function App() {
     document.documentElement.lang = i18n.language;
 
     // Update the title based on language
-    document.title = i18n.language === 'pl' 
-      ? 'ColorAnalyst | Profesjonalna analiza kolorystyczna'
-      : 'ColorAnalyst | Professional Color Analysis';
+    document.title =
+      i18n.language === "pl"
+        ? "Akademia Soft | Profesjonalna analiza kolorystyczna"
+        : "Soft Academy | Professional Color Analysis";
 
     // Update meta description based on language
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {
       metaDescription.setAttribute(
-        'content',
-        i18n.language === 'pl'
-          ? 'Profesjonalna analiza kolorystyczna dla kobiet. Odkryj kolory, które podkreślą Twoją naturalną urodę i dopasuj swoją garderobę idealnie do Twojego typu urody.'
-          : 'Professional color analysis for women. Discover colors that enhance your natural beauty and match your wardrobe perfectly to your beauty type.'
+        "content",
+        i18n.language === "pl"
+          ? "Profesjonalna analiza kolorystyczna dla kobiet. Odkryj kolory, które podkreślą Twoją naturalną urodę i dopasuj swoją garderobę idealnie do Twojego typu urody."
+          : "Professional color analysis for women. Discover colors that enhance your natural beauty and match your wardrobe perfectly to your beauty type."
       );
     }
   }, [i18n.language]);
