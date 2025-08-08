@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://softacademy.com.pl/sitemap.xml
+Disallow: /admin/
+Disallow: /node_modules/
