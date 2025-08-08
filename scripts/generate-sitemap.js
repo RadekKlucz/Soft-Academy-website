@@ -1,4 +1,3 @@
-// scripts/generate-sitemap.js
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -6,28 +5,30 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const baseUrl = 'https://softacademy.com.pl';
-
 const pages = [
-  '/',
-  '/booking',
-  '/concact'
+  '', // strona główna
+  'booking',
+  'contact'
 ];
 
-const urls = pages.map(p => {
-  return `<url>
-    <loc>${baseUrl}${p}</loc>
-    <changefreq>weekly</changefreq>
-    <priority>${p === '/' ? '1.0' : '0.8'}</priority>
-  </url>`;
-}).join('\n');
-
-const xml = `<?xml version="1.0" encoding="UTF-8"?>
+const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls}
+${pages
+  .map(page => {
+    return `  <url>
+    <loc>https://softacademy.com.pl/${page}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>${page === '' ? '1.0' : '0.8'}</priority>
+  </url>`;
+  })
+  .join('\n')}
 </urlset>`;
 
-const sitemapPath = path.join(__dirname, '../client/public/sitemap.xml');
-fs.writeFileSync(sitemapPath, xml);
+const distPath = path.join(__dirname, '../dist');
+if (!fs.existsSync(distPath)) {
+  fs.mkdirSync(distPath);
+}
 
-console.log(`✅ Sitemap was generated: ${sitemapPath}`);
+fs.writeFileSync(path.join(distPath, 'sitemap.xml'), sitemapContent);
+
+console.log('✅ Sitemap was generated and saved to dist/sitemap.xml');
